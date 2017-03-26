@@ -1,1 +1,1 @@
- <?php include_once("ergonomics.html"); ?
+ <?php include_once("index.html"); ?
