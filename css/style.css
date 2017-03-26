@@ -1,0 +1,90 @@
+
+
+.navbar navbar-default navbar-fixed-top {
+  background-color: black;
+
+}
+
+
+#bar {
+  background-color: black;
+
+}
+
+p {
+text-align: center;
+margin-left: 60px;
+margin-right: 60px;
+color: black;
+padding: 40px;
+}
+
+#ergoprise {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 50px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+
+}
+
+#enterprise {
+font-family: 'Gloria Hallelujah', cursive;
+font-size: 20px;
+}
+
+
+.jumbotron {
+background-color: grey;
+text-align: center;
+
+}
+
+
+#container {
+background-image: url("wood.jpg");
+background-size: cover;
+}
+
+#nav {
+  background-color: #001f3f;
+}
+
+#image {
+border-radius: 15px;
+margin-top: 300px;
+text-align: center;
+border: 5px solid black;
+background-color: grey;
+/*margin-bottom: 150px;*/
+}
+
+
+#title {
+background-color: tan;
+font-family: 'Gloria Hallelujah', cursive;
+}
+
+h1 {
+color: black;
+text-align: center;
+font-family: 'Gloria Hallelujah', cursive;
+padding-top: 30px;
+}
+
+#info {
+color:  white;
+font-size: 15px;
+/*padding-bottom: 200px;*/
+background-color: white;
+margin-left: 50px;
+margin-right: 50px;
+border: 5px solid black;
+}
+
+
+footer {
+background-color: #f8f8f8;
+height: 50px;
+margin-top: 500px;
+
+}
